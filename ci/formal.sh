@@ -4,7 +4,7 @@ mkdir -p generated
 
 source venv/bin/activate
 
-PROCESSES="sky130hd asap7 gf180mcu"
+PROCESSES="sky130hd asap7 gf180mcu ihp130"
 ADDERS="brentkung koggestone hancarlson ripple"
 
 # Test adders

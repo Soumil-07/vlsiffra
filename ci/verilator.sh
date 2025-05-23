@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 VERILATOR_OPTS="-O3 -Wno-fatal -Wno-TIMESCALEMOD"
-PROCESSES="sky130hd asap7 gf180mcu"
+PROCESSES="sky130hd asap7 gf180mcu ihp130"
 ADDERS="brentkung koggestone hancarlson ripple"
 
 mkdir -p generated
